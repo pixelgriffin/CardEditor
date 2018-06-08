@@ -1,0 +1,10 @@
+C:\Users\Bianca\source\repos\CardCreator\CardCreator\bin\Debug\CardCreator.exe.config
+C:\Users\Bianca\source\repos\CardCreator\CardCreator\bin\Debug\CardCreator.exe
+C:\Users\Bianca\source\repos\CardCreator\CardCreator\bin\Debug\CardCreator.pdb
+C:\Users\Bianca\source\repos\CardCreator\CardCreator\obj\Debug\CardCreator.csprojResolveAssemblyReference.cache
+C:\Users\Bianca\source\repos\CardCreator\CardCreator\obj\Debug\CardCreator.Form1.resources
+C:\Users\Bianca\source\repos\CardCreator\CardCreator\obj\Debug\CardCreator.Properties.Resources.resources
+C:\Users\Bianca\source\repos\CardCreator\CardCreator\obj\Debug\CardCreator.csproj.GenerateResource.Cache
+C:\Users\Bianca\source\repos\CardCreator\CardCreator\obj\Debug\CardCreator.csproj.CoreCompileInputs.cache
+C:\Users\Bianca\source\repos\CardCreator\CardCreator\obj\Debug\CardCreator.exe
+C:\Users\Bianca\source\repos\CardCreator\CardCreator\obj\Debug\CardCreator.pdb
